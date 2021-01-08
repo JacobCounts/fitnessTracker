@@ -39,6 +39,9 @@ npm install
 ## Testing: 
 npm test
 
+## Link to project
+https://fitness-tracker-jpc.herokuapp.com/
+
 ![ ](images/Screen%20Shot%202021-01-07%20at%205.30.50%20PM.png)
 ![ ](images/Screen%20Shot%202021-01-07%20at%205.34.55%20PM.png)
 ![ ](images/Screen%20Shot%202021-01-07%20at%205.35.43%20PM.png)
