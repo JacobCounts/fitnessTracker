@@ -4,7 +4,11 @@
 
     
 ## Description: 
-Allows user to track exercises by allowing input of new workouts
+Allows the user to view, create, and track daily workouts. It allows the user to log multiple
+exercises for any given day and the abbility to update the previous workouts. 
+Allows the user to track the name, type, weight, sets and reps along with the duration of
+each excersise. Cardio type workouts are show in distance traveled by miles. 
+
 
 ## Table of Contents:
 
